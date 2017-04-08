@@ -12,7 +12,7 @@ public class Jurnal8 {
         for(int i=0; i<=c; i++){            
     a=b;
     b=hasil;
-    System.out.print(hasil+" ");
+    System.out.print(hasil+" tambah-tambahinnya jadi  ");
     hasil=a+b;
     }
     } 
